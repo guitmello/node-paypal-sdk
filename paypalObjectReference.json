@@ -1,0 +1,20 @@
+{
+	"currency": "BRL",
+	"descriptions": "Description",
+	"items": [
+		{
+			"name": "Top",
+			"sku": "1",
+			"price": 30,
+			"currency": "BRL",
+			"quantity": 2
+		},
+		{
+			"name": "Top 2",
+			"sku": "2",
+			"price": 10,
+			"currency": "BRL",
+			"quantity": 2
+		}
+	]
+}
